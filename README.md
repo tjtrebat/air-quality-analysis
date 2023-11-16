@@ -2,7 +2,7 @@
 # Introduction
 This Python script performs statistical analysis on the Houston Air Quality Index (AQI) dataset. The analysis includes hypothesis testing and comparison of selected variables.
 # Part 1: Hypothesis Testing for 'avg_pressure'
-# Load the Houston AQI dataset.
+# Load the data
 Randomly select 100 samples from the 'avg_pressure' column.
 Set up hypotheses for mean and proportion testing.
 Conduct a one-tailed t-test for the mean and a binomial test for the proportion.
